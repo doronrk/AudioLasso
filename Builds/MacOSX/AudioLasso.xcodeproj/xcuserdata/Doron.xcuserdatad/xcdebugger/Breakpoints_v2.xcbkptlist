@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "480217078.034468"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "AudioLassoAudioProcessor::setAudioFile(const String&amp; audioFileAbsPath)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/SpecData.cpp"
+            timestampString = "479633337.491351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "SpecData::SpecData(const float* samples, int nSamples, int nfft, float fs, Array&lt;float&gt;* window, int nHop, float dbClip)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            timestampString = "480218650.079249"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "AudioLassoAudioProcessorEditor::AudioLassoAudioProcessorEditor (AudioLassoAudioProcessor&amp; p)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            timestampString = "480218650.079249"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "AudioLassoAudioProcessorEditor::paint (Graphics&amp; g)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "malloc_error_break"
+            moduleName = "">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "malloc_error_break"
+                  moduleName = "libsystem_malloc.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "480192968.102318"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "AudioLassoAudioProcessor::AudioLassoAudioProcessor()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../juce-grapefruit-osx/modules/juce_graphics/geometry/juce_Path.cpp"
+            timestampString = "480216434.813187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "Path::startNewSubPath (const float x, const float y)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+            timestampString = "480219833.604981"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "data (other.data)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;unsigned char, false&gt;::operator unsigned char*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::FFT::Complex, false&gt;::operator juce::FFT::Complex*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MidiKeyboardStateListener*, false&gt;::operator juce::MidiKeyboardStateListener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPEZone, false&gt;::operator juce::MPEZone*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPEInstrument::Listener*, false&gt;::operator juce::MPEInstrument::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPENote, false&gt;::operator juce::MPENote*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.906902"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;MIDIPacketList, false&gt;::operator MIDIPacketList*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float*, false&gt;::operator float**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907178"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float const*, false&gt;::operator float const**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CoreMidiHelpers::MidiPortAndCallback*, false&gt;::operator juce::CoreMidiHelpers::MidiPortAndCallback**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907514"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioIODeviceCallback*, false&gt;::operator juce::AudioIODeviceCallback**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioIODeviceType::Listener*, false&gt;::operator juce::AudioIODeviceType::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;int*, false&gt;::operator int**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_formats/../juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.907921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;AudioBufferList, false&gt;::operator AudioBufferList*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_formats/../juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908053"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float*, false&gt;::HeapBlock(juce::HeapBlock&lt;float*, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_processors/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.90819"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;double*, false&gt;::HeapBlock(juce::HeapBlock&lt;double*, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_processors/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioThumbnail::MinMaxValue*, false&gt;::operator juce::AudioThumbnail::MinMaxValue**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_utils/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioThumbnail::MinMaxValue, false&gt;::operator juce::AudioThumbnail::MinMaxValue*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_utils/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::Range&lt;float&gt;, false&gt;::operator juce::Range&lt;float&gt;*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_utils/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MouseInputSource, false&gt;::operator juce::MouseInputSource*() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_utils/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::var, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::var, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.908996"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::NamedValueSet::NamedValue, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::NamedValueSet::NamedValue, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.90913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;unsigned int, false&gt;::HeapBlock(juce::HeapBlock&lt;unsigned int, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.90926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;char, false&gt;::HeapBlock(juce::HeapBlock&lt;char, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.909395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::String, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::String, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.90953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unsigned int&amp; juce::HeapBlock&lt;unsigned int, false&gt;::operator[]&lt;unsigned int&gt;(unsigned int) const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_cryptography/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.909669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::Value::Listener*, false&gt;::operator juce::Value::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_data_structures/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.909808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ValueTree::Listener*, false&gt;::operator juce::ValueTree::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_data_structures/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.909942"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::DeletedAtShutdown*, false&gt;::operator juce::DeletedAtShutdown**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ChangeListener*, false&gt;::operator juce::ChangeListener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float, false&gt;::HeapBlock(juce::HeapBlock&lt;float, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AttributedString::Attribute*, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::AttributedString::Attribute*, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::TextLayout::Line*, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::TextLayout::Line*, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ConcertinaPanel::PanelSizes::Panel, false&gt;::operator=(juce::HeapBlock&lt;juce::ConcertinaPanel::PanelSizes::Panel, false&gt;&amp;&amp;)"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocument::Position*, false&gt;::operator juce::CodeDocument::Position**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.910893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocument::Listener*, false&gt;::operator juce::CodeDocument::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.911024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocumentLine*, false&gt;::operator juce::CodeDocumentLine**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.911153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ImagePixelData::Listener*, false&gt;::operator juce::ImagePixelData::Listener**() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_opengl/../juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220390.911291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;unsigned char, false&gt;::operator unsigned char*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.987718"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::FFT::Complex, false&gt;::operator juce::FFT::Complex*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.987933"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MidiKeyboardStateListener*, false&gt;::operator juce::MidiKeyboardStateListener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.98817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPEZone, false&gt;::operator juce::MPEZone*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.988394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPEInstrument::Listener*, false&gt;::operator juce::MPEInstrument::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.988569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::MPENote, false&gt;::operator juce::MPENote*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.988721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;MIDIPacketList, false&gt;::operator MIDIPacketList*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.988915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float*, false&gt;::operator float**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.989105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float const*, false&gt;::operator float const**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.989331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CoreMidiHelpers::MidiPortAndCallback*, false&gt;::operator juce::CoreMidiHelpers::MidiPortAndCallback**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.989538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioIODeviceCallback*, false&gt;::operator juce::AudioIODeviceCallback**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.989752"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioIODeviceType::Listener*, false&gt;::operator juce::AudioIODeviceType::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_devices/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.989897"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;int*, false&gt;::operator int**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_formats/../juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;AudioBufferList, false&gt;::operator AudioBufferList*() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_formats/../juce_audio_basics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.99021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;double*, false&gt;::operator double**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_processors/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioProcessorListener*, false&gt;::operator juce::AudioProcessorListener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_processors/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AudioProcessorValueTreeState::Listener*, false&gt;::operator juce::AudioProcessorValueTreeState::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_processors/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990705"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::var, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::var, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::NamedValueSet::NamedValue, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::NamedValueSet::NamedValue, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.990986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;unsigned int, false&gt;::HeapBlock(juce::HeapBlock&lt;unsigned int, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.991125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;char, false&gt;::HeapBlock(juce::HeapBlock&lt;char, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.991267"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::String, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::String, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.991405"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unsigned int&amp; juce::HeapBlock&lt;unsigned int, false&gt;::operator[]&lt;unsigned int&gt;(unsigned int) const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_cryptography/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.991692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::Value::Listener*, false&gt;::operator juce::Value::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_data_structures/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.99194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ValueTree::Listener*, false&gt;::operator juce::ValueTree::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_data_structures/../juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.992218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::DeletedAtShutdown*, false&gt;::operator juce::DeletedAtShutdown**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.992448"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ChangeListener*, false&gt;::operator juce::ChangeListener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_events/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.99269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;float, false&gt;::HeapBlock(juce::HeapBlock&lt;float, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.992953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::AttributedString::Attribute*, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::AttributedString::Attribute*, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.993208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::TextLayout::Line*, false&gt;::HeapBlock(juce::HeapBlock&lt;juce::TextLayout::Line*, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.993435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ConcertinaPanel::PanelSizes::Panel, false&gt;::operator=(juce::HeapBlock&lt;juce::ConcertinaPanel::PanelSizes::Panel, false&gt;&amp;&amp;)"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.993649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocument::Position*, false&gt;::operator juce::CodeDocument::Position**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.993885"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocument::Listener*, false&gt;::operator juce::CodeDocument::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.994077"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::CodeDocumentLine*, false&gt;::operator juce::CodeDocumentLine**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.994279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::HeapBlock&lt;juce::ImagePixelData::Listener*, false&gt;::operator juce::ImagePixelData::Listener**() const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_opengl/../juce_gui_extra/../juce_gui_basics/../juce_graphics/../juce_core/memory/juce_HeapBlock.h"
+                  timestampString = "480220412.994496"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+            timestampString = "480220366.272831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::FFT::FFTConfig::perform(juce::FFT::Complex const*, juce::FFT::Complex*, int, int, juce::FFT::FFTConfig::Factor const*) const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+                  timestampString = "480220366.285112"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::FFT::FFTConfig::perform(juce::FFT::Complex const*, juce::FFT::Complex*, int, int, juce::FFT::FFTConfig::Factor const*) const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+                  timestampString = "480220366.285367"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+            timestampString = "480220367.250713"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::FFT::FFTConfig::perform(juce::FFT::Complex const*, juce::FFT::Complex*, int, int, juce::FFT::FFTConfig::Factor const*) const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+                  timestampString = "480220367.253582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::FFT::FFTConfig::perform(juce::FFT::Complex const*, juce::FFT::Complex*, int, int, juce::FFT::FFTConfig::Factor const*) const"
+                  moduleName = "AudioLasso"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Doron/Documents/Developer/juce-grapefruit-osx/modules/juce_audio_basics/effects/juce_FFT.cpp"
+                  timestampString = "480220367.253801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
